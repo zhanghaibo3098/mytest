@@ -9,6 +9,6 @@ public class QuickStartController {
     @RequestMapping("/quick")
    @ResponseBody
     public String quick(){
-        return "访问一";
+        return "快速访问";
     }
 }
