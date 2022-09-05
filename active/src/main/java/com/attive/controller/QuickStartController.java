@@ -12,6 +12,6 @@ public class QuickStartController {
         return "快速访问";
     }
     public void add(String id){
-        System.out.println("ab哈哈、is");
+        System.out.println("你好啊");
     }
 }
